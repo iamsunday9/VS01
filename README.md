@@ -38,8 +38,7 @@ Create A Pull Request And I Will Receive A Merge Request On My Account
 5.I Will Review The Pull Request And If Right I Will Merge The Code To The Original Repo
 
 6.If You Want To See The Refreshed Code That Is Updated On The Original Repo Then You Have The Type git pull origin master 
- Or You Can Type git rebase master Which Will Refresh All Your Code And You Can Again Make Changes And Contribute To The 
-  Project
+Which Will Refresh All Your Code Which Is Updated On The Original Repo And You Can Again Make Changes And Contribute To The Project
 
 
 
