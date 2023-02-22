@@ -26,23 +26,19 @@ Fully Fledged And Working Website/Software For TEC Hackathon
 
     -> Then Type git commit -m "Here You Have To Type The Changes You Have Made To The Code"
 
-    -> Make Sure You Have Remote Connection Set To My Repo Link You Cam Check This By Typing git remote -v And In Both Fetch 
-
-       And Pull My Git Hub Repo Link Should Be Visible 
+    -> Make Sure You Have Remote Connection Set To My Repo Link You Cam Check This By Typing git remote -v And In Both Fetch And Pull My Git Hub Repo Link Should Be Visible 
 
     -> If The Link Are Visible/Not Visible You Can Type git add remote origin https://github.com/iamsunday9/Hackathon-Website.git
 
     -> The Type git push origin TheFileName-FileType (ie.index-html) (Here You Have To Enter The Name You Have Given For The Branch) (If The Process Is Showing Is Showing 100%)
 
 4.Then Come Back To The GitHub Website And You Will See A "Create A Pull Request" Click On That And Follow The Process And 
-
-  Create A Pull Request And I Will Receive A Merge Request On My Account
+Create A Pull Request And I Will Receive A Merge Request On My Account
 
 5.I Will Review The Pull Request And If Right I Will Merge The Code To The Original Repo
 
 6.If You Want To See The Refreshed Code That Is Updated On The Original Repo Then You Have The Type git pull origin master 
-
-  Or You Can Type git rebase master Which Will Refresh All Your Code And You Can Again Make Changes And Contribute To The 
+ Or You Can Type git rebase master Which Will Refresh All Your Code And You Can Again Make Changes And Contribute To The 
   Project
 
 
