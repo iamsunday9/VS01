@@ -43,7 +43,6 @@ Fully Fledged And Working Website/Software For TEC Hackathon
 6.If You Want To See The Refreshed Code That Is Updated On The Original Repo Then You Have The Type git pull origin master 
 
   Or You Can Type git rebase master Which Will Refresh All Your Code And You Can Again Make Changes And Contribute To The 
-  
   Project
 
 
