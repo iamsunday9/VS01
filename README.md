@@ -2,7 +2,7 @@
 
 Fully Fledged And Working Website/Software For TEC Hackathon 
 
-##Steps To Create A Repo On The Vscode Terminal
+## Steps To Create A Repo On The Vscode Terminal
 
 1.First Install The Git On Your Computer,To Check Whether Its Installed You Can Open Windows Terminal And Type (git --version) command.
 
