@@ -1,0 +1,1 @@
+console.log("Hello World This Is The Beginning Of The JavaScript File");
