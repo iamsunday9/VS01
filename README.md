@@ -1,18 +1,6 @@
-# Hackathon-Website
+# Personal-Website
 
-Fully Fledged And Working Website/Software For TEC Hackathon 
-
-## Problem Statement
-
-Development Of Dashboard At District Hospitals Showing Medical And Bed Facilities.
-
-## Description
-
-The Government Hospital Infrastructure Can Be Upgraded And made Smart With Display Of Medical Facilities And Bed Avalbility To The Public, That Will Bring Transperency And Good Faith Between Governance And Public.
-
-## Expected Outcome
-
-Software With UX & UI, Centralised Dashboard For The Public At District Level Hospitals
+Fully Fledged And Working Website/Software.
 
 ## Steps To Create A Repo On The Vscode Terminal
 
